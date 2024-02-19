@@ -1,0 +1,33 @@
+/* Estilos para el contenedor */
+.container {
+  display: flex;
+  justify-content: center; /* Centra los elementos horizontalmente */
+  align-items: center; /* Centra los elementos verticalmente */
+  height: 100vh; /* 100% del alto de la ventana */
+}
+
+/* Estilos para el botón */
+#btnPulsa {
+  background-color: #4CAF50; /* Color de fondo */
+  border: none;
+  color: white; /* Color del texto */
+  padding: 15px 32px; /* Espacio alrededor del texto */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Sombra */
+}
+
+/* Estilos cuando el cursor está sobre el botón */
+#btnPulsa:hover {
+  background-color: #45a049;
+}
+
+/* Estilos cuando el cursor está presionando el botón */
+#btnPulsa:active {
+  background-color: #3e8e41;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
