@@ -1,18 +1,10 @@
-# Página web con botón "PULSA"
+# Una especie de blog donde guardo y enlisto todos mis proyectos.
 
-Este es un ejemplo básico de una página web que contiene un botón "PULSA". Cuando el botón es presionado, se muestra una alerta con el mensaje "Hello World!".
+En esta página puedes ver todos mis proyectos y post recientes que sean de gran importancia.
+La utilidad de esta página es de doble función, Blog y Portfolio, puedes verlo cuando lo desees y así informarte a tope de lo que voy creando.
 
-## Archivos incluidos:
+## Estado actual:
 
-- `index.html`: Contiene la estructura HTML de la página web y vincula los archivos CSS y JavaScript.
-- `styles.css`: Contiene los estilos CSS para el botón "PULSA".
-- `script.js`: Contiene el código JavaScript que agrega la funcionalidad de mostrar una alerta al presionar el botón.
-
-## Cómo ejecutar la página:
-
-1. Descarga los archivos `index.html`, `styles.css` y `script.js` en la misma carpeta.
-2. Abre el archivo `index.html` en un navegador web.
-3. Haz clic en el botón "PULSA".
-4. Verás una alerta con el mensaje "Hello World!".
-
-¡Disfruta de tu página web con un botón interactivo!
+La página en este momento esta en estado de desarrollo, algunas cosas que me faltan por hacer es:
+- Desarrollar el diseño de la página.
+- Establecer el sistema de posteo.
