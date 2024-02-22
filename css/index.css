@@ -67,3 +67,16 @@ header {
   top: 0;
   left: 0;
 }
+
+.menu nav ul li a{
+  color: #777777;
+  transition: color 300ms;
+}
+
+.menu nav ul li a:hover{
+  color: #a52a2a;
+}
+
+.menu .text-menu-selected{
+  color: #a52a2a;
+}
